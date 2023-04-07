@@ -8,7 +8,7 @@
 
 ## INTRODUCTION
 
-> The No-show appointment dataset collected information in Brazil for about 100,000 medical appointments from November 2015 to June 2016. The primary focus is on patients who meet or fail to meet up with their doctor's appointment. Link to the dataset can be found [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0). The entire analysis for this project was done on Microsoft Power BI using power query and visualized using Microsoft Power BI.
+> The No-show appointment dataset collected information in Brazil for about 100,000 medical appointments from November 2015 to June 2016. The primary focus is on patients who meet or fail to meet up with their doctor's appointment. Link to the dataset can be found [here](https://www.kaggle.com/datasets/marwandiab/medical-appointment-no-shows-dataset?resource=download). The entire analysis for this project was done on Microsoft Power BI using power query and visualized using Microsoft Power BI.
 
 ## Problem Statement
 The goal of the analysis is to:
